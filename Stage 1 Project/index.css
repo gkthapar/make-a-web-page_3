@@ -1,0 +1,55 @@
+body {padding: 20px;
+	font-family: helvetica;
+	max-width:2000px;
+	margin: 0 auto;
+	font-size: 1.6em;
+background-color: white;}
+
+
+
+
+a:link {text-decoration: none;}
+
+
+
+
+
+h1 {
+	text-align: center;
+	color: #5C85D6;
+}
+
+
+
+.main.list {list-style-type:disc}
+
+.internal.list {list-style-type:circle}
+
+
+
+
+.lesson {
+	text-align: center;
+	background-color: #294860;
+	border-radius: 30px;
+	color: white;
+	padding: 10px;
+	margin: 40px auto;
+	max-width: 750px;
+}
+
+
+
+.concept {background-color: lightblue;
+border-radius: 20px;
+color: white;
+padding: 40px;
+margin: 40px auto;
+max-width: 600px;
+text-align: left;}
+
+.ol {color: #5C85D6;}
+
+
+
+.TOC {color: #5C85D6;}
